@@ -124,11 +124,6 @@ docker-compose up --build
 
 ---
 
-## License
-
-Specify your license here.
-
----
 
 ## Acknowledgements
 
